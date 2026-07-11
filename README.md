@@ -7,14 +7,14 @@ I'm a Network Engineer with hands-on experience in **enterprise networking, SD-W
 I use this GitHub to document **homelab builds, AWS labs, security projects, and infrastructure experiments** that support my transition into **cloud, cloud security, and infrastructure engineering roles**.
 
 <p align="center">
-  <img src="badges/CCNP_Badge.png" width="150" height="150" style="object-fit: contain;" />
-  <img src="badges/ENCC_Badge.png" width="150" height="150" style="object-fit: contain;" />
-  <img src="badges/Encore_Badge.png" width="150" height="150" style="object-fit: contain;" />
-  <img src="badges/CCNA_Badge.png" width="150" height="150" style="object-fit: contain;" />
-  <img src="badges/Fortinet_Badge.png" width="150" height="150" style="object-fit: contain;" />
-  <img src="badges/PRC.png" width="150" height="150" style="object-fit: contain;" />
+  <img src="badges/CCNP_Badge.png" width="140">
+  <img src="badges/ENCC_Badge.png" width="140">
+  <img src="badges/Encore_Badge.png" width="140">
+  <img src="badges/CCNA_Badge.png" width="140">
+  <img src="badges/Fortinet_Badge.png" width="140">
+  <img src="badges/PRC.png" width="140">
 </p>
----
+
 
 ## 🚀 What I Work On
 
