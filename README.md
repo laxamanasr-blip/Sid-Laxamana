@@ -73,8 +73,11 @@ I use this GitHub to document **homelab builds, AWS labs, security projects, and
 ## 📜 Certifications
 
 * **Cisco CCNP Enterprise**
-* **Cisco ENCC**
+* **Cisco Enterprise Cloud Connectivity Specialist**
+* **Cisco Enterprise Core Specialist**
+* **Cisco Certified Network Associate**
 * **Fortinet NSE 4**
+* **Cato Certificates**
 
 ---
 
