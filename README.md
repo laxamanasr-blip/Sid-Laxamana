@@ -6,7 +6,17 @@ I'm a Network Engineer with hands-on experience in **enterprise networking, SD-W
 
 I use this GitHub to document **homelab builds, AWS labs, security projects, and infrastructure experiments** that support my transition into **cloud, cloud security, and infrastructure engineering roles**.
 
-![CCNP](badges/CCNP_Badge.png) ![ENCC](badges/ENCC_Badge.png) ![ENCORE](badges/Encore_Badge.png) ![CCNA](badges/CCNA_Badge.png) ![Fortinet](badges/Fortinet_Badge.png) ![PRC](badges/PRC.png)0
+<h2>📜 Certifications</h2>
+
+<p align="center">
+  <img src="badges/CCNP_Badge.png" alt="CCNP Enterprise" width="150" />
+  <img src="badges/ENCC_Badge.png" alt="Enterprise Cloud Connectivity" width="150" />
+  <img src="badges/Encore_Badge.png" alt="Enterprise Core" width="150" />
+  <img src="badges/CCNA_Badge.png" alt="CCNA" width="150" />
+  <img src="badges/Fortinet_Badge.png" alt="Fortinet NSE 4" width="150" />
+  <img src="badges/PRC.png" alt="Professional Electronics Engineer" width="150" />
+</p>
+
 ---
 
 ## 🚀 What I Work On
