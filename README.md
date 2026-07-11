@@ -1,6 +1,6 @@
 # Hi, I'm Sid 👋
 
-**Network Engineer | CCNP Enterprise | AWS / Cloud Security Transition**
+**Network Engineer | CCNP Enterprise | AWS / Cloud Security**
 
 I'm a Network Engineer with hands-on experience in **enterprise networking, SD-WAN, security operations, and cloud-connected infrastructure**. My work includes **AWS networking, hybrid connectivity, firewall hardening, WAF, Zscaler, and production troubleshooting** across enterprise environments.
 
