@@ -77,6 +77,9 @@ I use this GitHub to document **homelab builds, AWS labs, security projects, and
 * GitHub
 
 ---
+## 📜 Professional License
+
+🟡 Registered Electronics Engineer (PRC)
 
 ## 📜 Certifications
 
